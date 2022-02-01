@@ -8,3 +8,6 @@ function simpleInterest(time, rate, initPrincipal) {
 
 let allPrice = simpleInterest(5, 4, 2000);
 console.log(allPrice);
+
+let price = simpleInterest(3, 2, 3000);
+console.log(price);
